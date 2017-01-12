@@ -1,0 +1,53 @@
+body{
+font-family: Verdana, sans-serif;
+font-size: 16px;
+}
+
+table{
+border-collapse: collapse;
+width:100%;
+}
+
+th{
+height: 50px;
+width: 115px;
+text-align: center;
+background-color: #66CCFF;
+color: white;
+}
+
+td{
+height: 50px;
+vertical_align: bottom;
+padding: 15px;
+background-color: #33AAFF;
+}
+
+table, th, td{
+  border: 1px solid #3333FF;
+  
+}
+
+div[id="makerinff"]{
+width: 90%;
+color: #000099;
+//float:left;
+}
+
+td[id="sa"]{
+background-color: #33AACC;
+}
+
+div[id="info"]{
+padding-top:40px;
+padding-left:520px;
+margin: 10px, 10px, 10px, 10px;
+color: #000099;
+}
+
+div[id="tabula"]{
+float: left;
+margin: 10px, 10px, 10px, 10px;
+padding-top: 20px;
+padding-left: 10px;
+}
